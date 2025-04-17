@@ -1,14 +1,14 @@
 ## Hi there 👋 
 - 🔭 Immediatly looking  Job
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently  ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 Open for different job roles... 
 - 💬 Check my Knowledge ...
-- 📫 How to reach me:... 9341951667
-- 😄 Pronouns: ...Kishan
+- 📫 How to reach me... 9341951667
+- 😄 Pronouns:...Kishan
 
   <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
-<h3 align="center">Worked as Java Engineer </h3>
+<h3 align="center">Worked as Software Engineer </h3>
 
 <img align="right" alt="codeing" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif"/>
 
