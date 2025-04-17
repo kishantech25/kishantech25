@@ -58,7 +58,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kishank49277438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kishank49277438" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/kishan-kumar-5494b923a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan kumar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/kishan1kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan kumar" height="30" width="40" /></a>
 <a href="https://fb.com/kishan kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kishan kumar" height="30" width="40" /></a>
 </p>
 
