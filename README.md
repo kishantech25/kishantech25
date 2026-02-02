@@ -13,7 +13,8 @@
 <img align="right" alt="codeing" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishantech25&label=Profile%20views&color=0e75b6&style=flat" alt="kishantech25" /> </p>
-
+  
+- 🔭 I Working on [SCB](https://www.sc.bank.in/)
 - 🔭 I Worked on [CA-PES](https://www.curriculumassociates.com/)
 - 🔭 I Worked on [Ardonagh-Project-Son](https://www.ardonagh.com/)
 - 🔭 Working on [Employee Management System]
@@ -21,7 +22,7 @@
 - 🌱 I’m have Completed the  **Cloud Computing Program from great learning through online to explore Cloud Technologies.**
 
 - 👨‍💻 All of my works are available at new-[https://github.com/kishantech25](https://github.com/kishantech25) and [https://github.com/kishan-hub](https://github.com/kishan-hub)
- As a professional with extensive experience in Java development, I have honed my skills in managed the software development lifecycle, including requirements gathering, system design, coding, testing and debugging. My expertise lies in designing and implementing Java-based solutions, optimizing application performance, and ensuring robust security and compliance. I am also proficient in developing, building, and maintaining Java applications and services, with a strong focus on scalability, reliability, and performance.
+ As a professional with extensive experience in Java development, currently working as Core banking Regulatery System. Enhanceing the having changing the Regulatory System thorugh I have honed my skills in managed the software development lifecycle, including requirements gathering, system design, coding, testing and debugging. My expertise lies in designing and implementing Java-based solutions, optimizing application performance, and ensuring robust security and compliance. I am also proficient in developing, building, and maintaining Java applications and services, with a strong focus on scalability, reliability, and performance.
 
   Key Responsibilities:
 
