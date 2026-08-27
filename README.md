@@ -48,7 +48,7 @@ Key Contributions:
 ---
 
 ## 🏢 YCCEYA Business Ecosystem Platform
-### Junior Software Engineer - ICEM INFONET PVT LTD
+### Junior Software Engineer - Lince Soft Solutions PVT LTD
 **June 2016 - October 2019**
 
 Worked on a monolithic Java application developed to support small businesses and shops through a digital ecosystem.
